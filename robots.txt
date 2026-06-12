@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /app-ads.txt
+
+Sitemap: https://zichenruihedev.com/sitemap.xml
